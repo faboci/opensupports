@@ -79,7 +79,7 @@ export default {
     'OWNED': 'Owned',
     'STATUS': 'Stato',
     'NONE': 'None',
-    'OPENED': 'Operto',
+    'OPENED': 'Aperto',
     'CLOSED': 'Chiuso',
     'CLOSE': 'Chiuso',
     'ANY': 'Qualunque',
